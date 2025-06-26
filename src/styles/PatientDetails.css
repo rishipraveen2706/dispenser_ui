@@ -1,0 +1,42 @@
+.patient-details {
+  max-width: 600px;
+  margin: 2rem auto;
+  padding: 2rem;
+  background-color: #ffffff;
+  border-radius: 12px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+  font-family: 'Segoe UI', sans-serif;
+}
+
+.patient-details h2 {
+  text-align: center;
+  color: #333;
+  margin-bottom: 1.5rem;
+}
+
+.patient-details p {
+  font-size: 1.1rem;
+  margin: 0.75rem 0;
+  color: #222;
+}
+
+.patient-details strong {
+  color: #555;
+}
+
+.patient-details button {
+  display: block;
+  margin: 2rem auto 0;
+  padding: 0.75rem 1.5rem;
+  background-color: #007bff;
+  color: white;
+  font-size: 1rem;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.patient-details button:hover {
+  background-color: #0056b3;
+}
