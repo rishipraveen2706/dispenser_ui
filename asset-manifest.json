@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/doctor_ui/static/css/main.4d60fcd3.css",
-    "main.js": "/doctor_ui/static/js/main.1be53945.js",
-    "static/js/453.1ca2de98.chunk.js": "/doctor_ui/static/js/453.1ca2de98.chunk.js",
-    "index.html": "/doctor_ui/index.html",
-    "main.4d60fcd3.css.map": "/doctor_ui/static/css/main.4d60fcd3.css.map",
-    "main.1be53945.js.map": "/doctor_ui/static/js/main.1be53945.js.map",
-    "453.1ca2de98.chunk.js.map": "/doctor_ui/static/js/453.1ca2de98.chunk.js.map"
+    "main.css": "/dispenser-ui/static/css/main.4d60fcd3.css",
+    "main.js": "/dispenser-ui/static/js/main.ccda796d.js",
+    "static/js/453.1ca2de98.chunk.js": "/dispenser-ui/static/js/453.1ca2de98.chunk.js",
+    "index.html": "/dispenser-ui/index.html",
+    "main.4d60fcd3.css.map": "/dispenser-ui/static/css/main.4d60fcd3.css.map",
+    "main.ccda796d.js.map": "/dispenser-ui/static/js/main.ccda796d.js.map",
+    "453.1ca2de98.chunk.js.map": "/dispenser-ui/static/js/453.1ca2de98.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4d60fcd3.css",
-    "static/js/main.1be53945.js"
+    "static/js/main.ccda796d.js"
   ]
 }
